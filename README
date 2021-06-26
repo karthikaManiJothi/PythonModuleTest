@@ -1,0 +1,15 @@
+1.	Create a REST API with customer details such as 
+             Customer name ,account number , Account Type(savings , CASA etc),
+             Balance Available 
+ 
+2.	Based on the Rest methods 
+          * Retrieve the details of the All customers and App should also be able to retrieve the details based on customer id .
+          * Application should be able create a new customer with the mentioned details 
+          * Application should be able to update the customer details
+          * Also it should be able to delete a particular customer based on customer id .
+ 
+3.	Application should also perform Basic banking operations such as
+                 for  a particular customer   
+                    -  It should allow  depositing the amount to his/her account .
+                    - It should Allow withdrawing the amount from his/ her account .                              
+                      If available balance is less than withdrawal amount it should display insufficient funds .   
